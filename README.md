@@ -22,7 +22,7 @@ This project uses Excel to analyze customer and sales data for Vrinda Store, wit
 
 - Women are more likely to buy than men (~65%)
 - Maharashtra, Karnataka and Uttar Pradesh are the top contributing states
-- Age group 30–49 contributes the most to sales (~50%)
+- Age group 30-49 contributes the most to sales (~50%)
 - Top-performing channels: Amazon, Flipkart, Myntra
   
 # Recommendations
