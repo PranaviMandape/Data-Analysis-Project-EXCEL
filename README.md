@@ -28,7 +28,7 @@ This project uses Excel to analyze customer and sales data for Vrinda Store, wit
 # Recommendations
 
 - Target women aged 30-49 in the top states.
-- Promote products using offers or coupons on Amazon, Flipkart, and Myntra.
+- Promote products using offers or coupons on Amazon, Flipkart and Myntra.
 
 # Tools Used
 
